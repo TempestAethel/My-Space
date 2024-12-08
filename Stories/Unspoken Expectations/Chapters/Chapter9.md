@@ -59,7 +59,7 @@ The space between them no longer felt like a void. It felt like possibility—a 
 
 And though their paths weren’t always aligned, they walked them with the quiet knowledge that they were better for having known one another.  
 
-## Chapter 9: Growth in the Space Between (Continued)  
+--- 
 
 Maya’s art exhibit was the first major milestone she’d reached since rebuilding her friendship with Ethan. It wasn’t just the culmination of months of hard work—it was a celebration of everything she’d discovered about herself during their time apart.  
 
@@ -133,7 +133,7 @@ Their milestones, though separate, felt intertwined—like branches growing from
 
 They weren’t everything to each other anymore, but they didn’t need to be. What they shared now was enough.  
 
-## Chapter 9: Growth in the Space Between (Continued)  
+--- 
 
 As the semester progressed, Ethan and Maya found themselves busier than ever, their paths crossing less frequently but never drifting apart completely.  
 
@@ -202,7 +202,7 @@ For a moment, they sat in silence, watching the water ripple in the fading light
 
 And though the future remained uncertain, they knew one thing for sure: they had helped each other become stronger, and that was something they would always carry with them.  
 
-## Chapter 9: Growth in the Space Between (Continued)  
+--- 
 
 Maya’s exhibit was just the beginning. As the semester went on, she began receiving more invitations to display her work in smaller student showcases around campus. Each time, she’d carefully select pieces that told a story—not just about her growth as an artist but about the emotions and experiences she had finally learned to embrace.  
 
@@ -280,7 +280,7 @@ Ethan nodded, a faint smile tugging at his lips. “Me too. It’s scary, but it
 
 And as they sat there, the campus quieting around them, they both felt a sense of calm—a quiet certainty that whatever came next, they would face it stronger, wiser, and more sure of themselves than ever before.  
 
-## Chapter 9: Growth in the Space Between (Continued)  
+--- 
 
 The semester crept toward its end, bringing with it the quiet buzz of final projects and the looming promise of summer. For Ethan and Maya, life felt steady, though not stagnant—each of them focused on their own paths, with the other offering encouragement from a respectful distance.  
 
