@@ -73,7 +73,7 @@ And though neither of them said it out loud, they both carried the same quiet ho
 
 For now, they would walk their separate journeys, growing stronger with each step.  
 
-## Chapter 7: A New Kind of Stillness (Continued)  
+---
 
 Maya’s texts came sparingly at first—casual, unassuming, like the way someone dips their toes into cold water before diving in.  
 
@@ -173,7 +173,7 @@ That night, as Ethan lay in bed, he couldn’t stop thinking about the pain in h
 
 And as much as he missed the way things used to be, he reminded himself that growth didn’t come from clinging to what was comfortable. It came from facing the hard truths and letting go when it mattered most.  
 
-## Chapter 7: A New Kind of Stillness (Continued)  
+---
 
 Ethan couldn’t shake the uneasy feeling that had begun to creep into his interactions with Maya. At first, he thought he was imagining it—the subtle shifts in her tone, the way she twisted his words during their conversations.  
 
@@ -261,7 +261,7 @@ Maya wasn’t a bad person—she was just someone who had a lot of growing to do
 
 For now, all he could do was hope that time and distance would bring them both the clarity they needed.  
 
-## Chapter 7: A New Kind of Stillness (Continued)  
+---
 
 Maya stared at her phone, Ethan’s message glaring back at her like a spotlight on her insecurities.  
 
