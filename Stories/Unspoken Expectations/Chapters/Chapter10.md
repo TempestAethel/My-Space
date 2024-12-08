@@ -447,7 +447,7 @@ And as he closed the journal, the room quiet around him, Ethan allowed himself t
 
 Because sometimes, the hardest choices are the ones that lead to the most growth—even if they hurt.  
 
-## Chapter 10: Unspoken Struggles (Concluded)
+---
 
 Ethan stayed at the café for a while after Maya left, watching the world move on around him. People came and went, their conversations and laughter filling the space, but it all felt distant—like he was watching it from behind a glass wall.  
 
