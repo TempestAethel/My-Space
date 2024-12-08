@@ -97,7 +97,7 @@ He cared about Maya deeply, but he couldn’t ignore the growing imbalance betwe
 
 And as he sat staring at his phone, waiting for a reply that might never come, Ethan couldn’t help but wonder if this new chapter in their friendship was destined to end before it had even truly begun.  
 
-## Chapter 10: Unspoken Struggles (Continued)  
+ 
 
 Days turned into weeks, and the gap between Ethan and Maya continued to grow. Despite his efforts to stay connected, Maya’s replies remained brief, her presence in his life feeling more like a flicker than a flame.  
 
@@ -375,7 +375,7 @@ For the first time, she allowed herself to imagine a future without Ethan in it.
 
 Maybe it was time to let go.  
 
-## Chapter 10: Unspoken Struggles (Continued)  
+ 
 
 A week after their conversation in the park, Ethan and Maya met for what felt like the last time—though neither of them dared to say it out loud. Maya had asked to meet at the coffee shop, her tone in the message neutral but unreadable.  
 
