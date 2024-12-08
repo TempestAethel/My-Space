@@ -195,7 +195,7 @@ When they parted ways that afternoon, Ethan felt a strange mix of relief and unc
 
 As he walked back to his dorm, he couldn’t help but wonder if they were truly moving forward—or if they were just delaying the inevitable.  
 
-## Chapter 10: Unspoken Struggles (Continued)
+---
 
 Ethan stared at his phone, his latest message to Maya sitting unread. The minutes stretched into an hour, then two, as the familiar knot of doubt tightened in his chest. He told himself she was probably busy, but the silence felt heavier than it should have.  
 
@@ -241,7 +241,7 @@ His chest tightened as he finally hit send, the weight of the message settling o
 
 All he could do now was wait.  
 
-## Chapter 10: Unspoken Struggles (Continued)
+---
 
 Ethan checked his phone more times than he wanted to admit. Each time, the empty notification screen felt like a quiet rejection.  
 
@@ -305,7 +305,7 @@ For the first time, Ethan started to wonder if this was how it would always be�
 
 And though he didn’t want to admit it, a small, painful part of him wondered if letting go was the only way to find peace.  
 
-## Chapter 10: Unspoken Struggles (Continued)
+---
 
 Ethan didn’t bring up the message again. He told himself it was because he didn’t want to pressure Maya, but the truth was more complicated. A part of him was afraid—afraid of pushing her too far and watching her pull away completely.  
 
