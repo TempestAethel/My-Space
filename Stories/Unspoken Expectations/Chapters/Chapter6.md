@@ -65,7 +65,7 @@ Maybe they weren’t ready yet.
 
 But maybe, someday, they would be.  
 
-## Chapter 6: Quiet Distance (Continued)  
+--- 
 
 The days after their brief encounter felt heavier for Ethan. Seeing Maya had stirred something deep within him—a mixture of longing, regret, and a quiet hope that he didn’t fully understand.  
 
@@ -129,7 +129,7 @@ Ethan was still out there, finding his way. And so was she.
 
 For now, that was enough.  
 
-## Chapter 6: Quiet Distance (Continued)  
+--- 
 
 The weeks that followed brought a strange kind of rhythm. Ethan and Maya no longer crossed paths regularly, but the echoes of their connection lingered in the spaces they’d once shared.  
 
@@ -247,7 +247,7 @@ As Maya walked away, Ethan felt the familiar pang of longing, but he forced hims
 
 And as he turned back toward the library, he made a silent promise to himself: to keep moving forward, even when it hurt. Because sometimes, letting go was the only way to truly hold on—to hope, to growth, to the possibility of something better.  
 
-## Chapter 6: Quiet Distance (Continued)  
+--- 
 
 Maya wasn’t ready to give up. A few days later, Ethan found a small envelope slipped under the door of his dorm room. Inside was a note written in her neat, slanted handwriting:
 
