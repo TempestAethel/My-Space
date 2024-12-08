@@ -69,7 +69,7 @@ Ethan smiled back, her words bringing a small measure of comfort. “Yeah,” he
 
 And even though the road ahead felt uncertain, Ethan held on to the hope that whatever challenges they faced, they’d face them together.  
 
-## Chapter 5: Crossroads (Continued)  
+---
 
 The following weeks were a blur of deadlines and late nights. Ethan threw himself into his coursework, the weight of upcoming exams and project submissions pressing heavily on him. Meanwhile, Maya became a ghost of herself, disappearing for long stretches into the studio.  
 
@@ -141,7 +141,7 @@ It wasn’t a solution, not yet. But it was a step.
 
 And for now, that was enough.  
 
-## Chapter 5: Crossroads (Continued)  
+---
 
 The quiet days that followed brought more reflection than resolution. Ethan couldn’t shake the feeling that something was shifting—not just between him and Maya, but within himself.  
 
@@ -193,7 +193,7 @@ Later, as they walked back to campus together, Ethan couldn’t shake the feelin
 
 And as they parted ways for the evening, Ethan found himself wondering if he could really be the person she needed—or if trying to be that person would mean losing himself in the process.  
 
-## Chapter 5: Crossroads (Continued)  
+---
 
 The next few days felt like a balancing act Ethan wasn’t sure he could maintain.  
 
@@ -261,7 +261,7 @@ What if love wasn’t enough?
 
 And what would happen if they couldn’t find their way back to the simplicity they’d once shared?  
 
-## Chapter 5: Crossroads (Continued)  
+---
 
 The next morning, Ethan woke with a heaviness in his chest that he couldn’t shake. Maya’s words from the night before played on repeat in his mind, and though he wanted to believe they could figure things out, the weight of their unspoken struggles lingered.  
 
@@ -329,7 +329,7 @@ Ethan told himself it was just a rough patch, that they’d find their way back 
 
 Because for the first time, he wondered if love alone would be enough to keep them together.  
 
-## Chapter 5: Crossroads (Continued)  
+---
 
 The next week passed in a blur of routines and responsibilities. Ethan and Maya still saw each other, but the space between them seemed to stretch further with every passing day.  
 
@@ -417,7 +417,7 @@ He didn’t know what the future held—if they’d find their way back to each 
 
 But as he walked across campus, his mind replaying her words, he knew one thing for certain: letting her go, even temporarily, was the hardest thing he’d ever done.  
 
-## Chapter 5: Crossroads (Continued)  
+---
 
 The days after the conversation at the studio felt like a blur. Ethan went through the motions of his routines—attending classes, completing assignments, and meeting deadlines—but everything felt hollow.  
 
