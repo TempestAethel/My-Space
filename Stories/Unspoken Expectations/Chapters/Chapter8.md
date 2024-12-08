@@ -51,7 +51,7 @@ The breeze picked up, scattering more petals across the bench. For the first tim
 
 And as the sun dipped lower in the sky, casting a golden glow over the campus, they sat together in quiet understanding, both wondering what this new chapter might hold.  
 
-## Chapter 8: Rekindled Paths (Continued)
+---
 
 Over the next few weeks, Ethan and Maya began to find their way back to each other—not as they once were, but as something quieter, steadier. It started with small gestures: Maya sending Ethan a picture of a painting she’d just finished, Ethan replying with a thoughtful comment about the colors.  
 
@@ -120,7 +120,7 @@ Maya nodded, her smile growing. “I think so too.”
 
 As they watched the water ripple under the afternoon sun, there was a quiet understanding between them—a sense that, even though they couldn’t go back to what they’d been, they were finding something new and just as meaningful.  
 
-## Chapter 8: Rekindled Paths (Continued)
+---
 
 Ethan and Maya’s friendship began to take shape in small but meaningful ways. They started meeting regularly—sometimes for coffee, sometimes for a walk around campus—and each interaction felt a little easier than the last.  
 
@@ -194,7 +194,7 @@ They weren’t the same people they’d been when they first met, and they weren
 
 And as the evening drew to a close, they both felt a quiet sense of hope for what lay ahead.  
 
-## Chapter 8: Rekindled Paths (Continued)  
+---  
 
 Their rhythm continued to evolve, each interaction adding a layer of comfort and understanding. Ethan and Maya had found something new—something that felt steady, even if it wasn’t always simple.  
 
