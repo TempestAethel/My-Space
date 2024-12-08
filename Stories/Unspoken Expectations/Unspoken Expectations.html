@@ -1,3 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Unspoken Expectations</title>
+    <style>
+        :root {
+            --background-dark: #121212;
+            --text-dark: #ffffff;
+            --background-light: #ffffff;
+            --text-light: #000000;
+        }
+
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: var(--background-dark);
+            color: var(--text-dark);
+            transition: background-color 0.3s, color 0.3s;
+        }
+
+        body.light-theme {
+            background-color: var(--background-light);
+            color: var(--text-light);
+        }
+
+        .toggle-btn {
+            position: fixed;
+            top: 10px;
+            right: 10px;
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .toggle-btn:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <button class="toggle-btn" onclick="toggleTheme()">Toggle Theme</button>
+
 <h1>Unspoken Expectations</h1>
 <p><em>By Aurora Heart</em></p>
 <h2>Chapter 1: Crossing Paths</h2>
@@ -2175,3 +2222,19 @@ We find ourselves.”</em></p>
 <hr>
 <p>Though their journeys had diverged, Ethan and Maya carried the lessons they’d learned from each other, shaping the people they were becoming.</p>
 <p>And while they might not know what the future held, they both understood this: sometimes, the best thing you can do for someone you care about is to let them go.</p>
+
+    <script>
+        // Check for saved theme in localStorage
+        const savedTheme = localStorage.getItem('theme');
+        if (savedTheme) {
+            document.body.classList.add(savedTheme);
+        }
+
+        function toggleTheme() {
+            const isDark = document.body.classList.toggle('light-theme');
+            // Save the current theme to localStorage
+            localStorage.setItem('theme', isDark ? '' : 'light-theme');
+        }
+    </script>
+</body>
+</html>
