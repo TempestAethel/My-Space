@@ -101,7 +101,8 @@ This wasn’t just another raid. This was the beginning of something much larger
 
 "Now," Kael said, his voice steady.  
 
-Lira raised her hand, and a series of faint, distant clicks echoed through the air as the detonators activated. The ground beneath them shuddered, and a split second later, the night exploded into chaos.  
+Lira raised her hand, and a series of faint, distant clicks echoed through the air as the detonators activated. The ground beneath them shuddered, and a split second later, the night exploded into chaos.
+
 ---
 ### **Page 3**  
 
@@ -176,7 +177,9 @@ Kael took a step toward her, but the figure turned its head toward him, and he f
 Every instinct screamed at him to stay, to fight, but he knew it was useless. Gritting his teeth, he turned and ran, following the others into the labyrinth of alleys.  
 
 Behind him, the hum of the citadel grew louder still, drowning out the sounds of the battle. And then, just as suddenly as it had begun, it stopped.  
+
 ---
+
 ### **Page 4**  
 
 The silence was worse than the noise.  
@@ -244,7 +247,9 @@ The rebels scrambled into action, locking the door and positioning themselves ne
 Kael moved to the center of the room, his blade in hand, his heart pounding in his chest. Outside, the hum grew louder, resonating through the walls like a heartbeat.  
 
 And then, from the shadows beyond the barricaded windows, a single glowing figure emerged.  
+
 ---
+
 ### **Page 5**  
 
 The glowing figure stood motionless in the street, its pulsating light casting eerie shadows on the surrounding buildings. Its armor gleamed black, veins of pale green energy twisting along its surface like living things. The hum seemed to emanate from its very being, vibrating through the walls of the safe house and into Kael’s chest.  
@@ -320,6 +325,7 @@ Kael gritted his teeth, grabbing his blade. His body ached, and his mind felt li
 The figure surged forward, its claws outstretched. Kael braced himself, his grip tightening on the hilt of his blade. He wasn’t sure he could win, but if this was the end, he would face it standing.  
 
 As the creature lunged, the room around them seemed to collapse inward, the air warping like a mirage. Kael swung his blade, the hum reaching a deafening crescendo.  
+
 ---
 ### **Page 6**  
 
