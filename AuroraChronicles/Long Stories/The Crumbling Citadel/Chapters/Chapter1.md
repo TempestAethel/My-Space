@@ -531,3 +531,5 @@ Kael hesitated, but he saw the resolve in her eyes and knew better than to argue
 As the others began murmuring amongst themselves, Kael sat down against the damp wall of the tunnel, exhaustion washing over him. He closed his eyes, the hum of the citadel still echoing faintly in the back of his mind.  
 
 The rebellion wasn’t over—not yet. But he couldn’t shake the feeling that the real fight was only just beginning.  
+
+---
