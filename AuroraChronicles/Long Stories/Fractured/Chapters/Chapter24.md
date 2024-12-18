@@ -125,11 +125,6 @@ Avery opened their eyes.
 
 ---
 
-# **Fractured**  
-**Author:** AuroraHeart  
-
----
-
 ## **Chapter 24: A Fragile Escape (Part 2)**  
 
 Avery gasped as their eyes fluttered open, their lungs burning with the sharp intake of air. For a moment, they lay still, disoriented, the sound of their own heartbeat pounding in their ears. The ground beneath them felt solid, but cold, and the air carried an eerie, electric stillness.  
